@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>image/silah.png</file>
+        <file>image/ducky.png</file>
+        <file>image/bang.png</file>
+        <file>image/arkaPlan.png</file>
+    </qresource>
+</RCC>
